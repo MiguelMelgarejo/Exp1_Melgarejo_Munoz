@@ -1,0 +1,397 @@
+
+.body1{
+    margin: 0;
+    padding: 0;  
+    background-size: cover ;
+
+    background-position: center;
+    font-family: sans-serif;
+    
+    background-image: url(body1.jpeg);
+
+    background-repeat: no-repeat;
+    
+    
+    
+    
+
+    
+}
+
+.body2{
+    margin: 0;
+    padding: 0;  
+    background-size: cover ;
+
+    background-position: center;
+    font-family: sans-serif;
+    
+    background-image: url(fondo222.jpg);
+
+    
+}
+
+
+
+
+.body3{
+    margin: 0;
+    padding: 0;  
+    background-size: cover ;
+
+    background-position: center;
+    font-family: sans-serif;
+    
+    background-image: url(p2.jpg);
+    
+    
+
+    
+}
+
+.carousel-item{
+
+    width: 100%;
+
+
+
+
+}
+.tip1{
+
+    display: flex;
+    color: rgb(255, 255, 255);
+    margin: 50px;
+   
+
+
+}
+.p1{
+    margin-left: 50px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+
+    
+}
+
+.ip1{
+    margin-left: 10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+.ip2{
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+.imgtaller{
+    padding: 10px; 
+    margin: 10px; border: 2px solid black; 
+    width: 1000px;
+    display: flex;
+    float: right;
+    
+    
+
+}
+.imgexhi{
+    padding: 10px; 
+    margin: 10px; border: 2px solid black; 
+    width: 1000px;
+    display: flex;
+    
+    
+}
+
+.imgcafe{
+    padding: 10px; 
+    margin: 10px; border: 2px solid black; 
+    width: 1000px;
+    display: flex;
+   
+    
+}
+.logo{
+    width: 30px;
+    height: 30px;
+
+}
+.carrito{
+    width: 30px;
+    height: 30px;
+}
+.copyy{
+    
+    text-align: center
+}
+
+.card1{
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+
+    
+}
+.card2{
+
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    
+
+}
+.card3{
+
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    
+
+}
+.card4{
+
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    
+
+}
+.card5{
+
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    
+
+}
+.card6{
+
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    
+
+
+}
+
+.card7{
+
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    
+
+}
+
+.card8{
+
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    
+
+}
+
+.card9{
+
+    
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #797979;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 2);
+    
+
+}
+.t1{
+    display: flex;
+    background-color: #e9a106;
+    margin: 10px;
+    justify-content: center;
+    opacity: 0.9;
+    
+}
+
+.t2{
+    display: flex;
+    background-color: #e9a106;
+    margin: 10px;
+    justify-content: center;
+    opacity: 0.95;
+    
+}
+
+.p1{
+
+    display: flex;
+    justify-content: center;
+
+
+
+
+}
+.t1m{
+    display: flex;
+    justify-content: center;
+    background-color: #e9a106;
+    margin: 10px; border: 2px solid black;
+
+}
+
+.imgc{
+    padding: 10px; 
+    margin: 10px; border: 2px solid black; 
+    width: 800px;
+    
+}
+
+.imgc1{
+    padding: 10px; 
+    margin: 10px; border: 2px solid black; 
+    width: 800px;
+    float: right;
+    
+}
+
+.imgc2{
+    padding: 10px; 
+    margin: 10px; border: 2px solid black; 
+    width: 500px;
+    
+    
+}
+
+
+
+.ubii{
+    padding: 10px; 
+    margin: 60px; border: 2px solid black; 
+    width: 400px;
+    margin-left: 750px;
+ 
+    
+    
+}
+
+.imgfc{
+    padding: 10px; 
+    margin: 20px; border: 2px solid black; 
+    width: 500px;
+    margin-left: 700px;
+    
+}
+
+.pintura{
+    display: flex;
+    justify-content: center;
+    border-radius: 70px;
+    overflow: hidden;
+    align-items: center;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 2);
+    
+    display: flex;
+    background-color: #1d1d1d; opacity: 0.9;
+    margin: 10px; border: 2px solid black;
+}
+.artela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #1d1d1d;
+    margin: 10px; border: 2px solid black;
+    border-radius: 70px;
+    overflow: hidden;
+    opacity: 0.95;
+
+}
+.esculturas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #1d1d1d;
+    margin: 10px; border: 2px solid black;
+    border-radius: 70px;
+    overflow: hidden;
+    opacity: 0.95;
+
+}
+.orfebreria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #1d1d1d;
+    margin: 10px; border: 2px solid black;
+    border-radius: 70px;
+    overflow: hidden;
+    opacity: 0.95;
+
+}
+.tejido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #1d1d1d;
+    margin: 10px; border: 2px solid black;
+    border-radius: 70px;
+    overflow: hidden;
+    opacity: 0.95;
+
+}
+
+
+
+
+.logo2{
+    width: 30px;
+    height: 30px;
+
+}
+.logof{
+    width: 20px;
+    height: 20px;
+
+}
+.logoi{
+    width: 20px;
+    height: 20px;
+
+}
